@@ -13,7 +13,9 @@
 - jalankan ulang dengan nama baru
   ![image](https://github.com/luthfifahrizki/my-container-volume/assets/171332945/78325a30-5839-4b31-bcd9-690c2a81e993)
   ![image](https://github.com/luthfifahrizki/my-container-volume/assets/171332945/9472c559-727b-4df1-bfc9-27185725efaf)
--
+- cek apakah table masih ada
+  ![image](https://github.com/luthfifahrizki/my-container-volume/assets/171332945/f0977d7e-4fca-436a-8b11-32c35a77f7e6)
+
 
 
 
